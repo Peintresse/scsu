@@ -1,8 +1,139 @@
 {
   "title": "Scanlation Community Survey 2022 - Summary Report",
-  "description": "Data analysis by:\nPresentation by:\nHelp by:\n\nSummary results of an online survey of people currently or previously engaged in scanlation, aiming to explore the makeup and opinions of the English-language scanlation community. This is a summary report of basic findings, presenting survey results through individual tables and graphs.",
+  "description": "Data analysis by:\nPresentation by:\nHelp by:\n\nSummary results of an online survey of people currently or previously engaged in scanlation, aiming to explore the makeup and opinions of the English-language scanlation community. This is a summary report of basic findings, presenting survey results through individual tables and graphs.\n\nOnline Slides version:\nPDF download:\n\nMailing list for follow up reports and future updates: https://forms.gle/smc9vGaeFdNYVqN29",
   "artist": "Scanlator",
   "author": "Survey",
   "cover": "https://i.imgur.com/3Wemnbw.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "About",
+      "volume": "1",
+      "last_updated": "1688508567",
+      "groups": {
+        "": [
+          "https://imgur.com/a/7Wr7anq"
+        ]
+      }
+    },
+    "2": {
+      "title": "Methodology",
+      "volume": "1",
+      "last_updated": "1688508619",
+      "groups": {
+        "": [
+          "https://imgur.com/a/7Wr7anq"
+        ]
+      }
+    },
+    "3": {
+      "title": "Limitations",
+      "volume": "1",
+      "last_updated": "1688508635",
+      "groups": {
+        "": [
+          "https://imgur.com/a/7Wr7anq"
+        ]
+      }
+    },
+    "4": {
+      "title": "General Scanlators",
+      "volume": "2",
+      "last_updated": "1688508683",
+      "groups": {
+        "": [
+          "General Scanlators"
+        ]
+      }
+    },
+    "5": {
+      "title": "Ex-scanlators",
+      "volume": "2",
+      "last_updated": "1688335900",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "6": {
+      "title": "Platforms",
+      "volume": "2",
+      "last_updated": "1688335910",
+      "groups": {
+        "": [
+          "General Scanlators"
+        ]
+      }
+    },
+    "7": {
+      "title": "Specifics",
+      "volume": "2",
+      "last_updated": "1688335918",
+      "groups": {
+        "": [
+          "General Scanlators"
+        ]
+      }
+    },
+    "8": {
+      "title": "Localization",
+      "volume": "2",
+      "last_updated": "1688335940",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "9": {
+      "title": "Translators",
+      "volume": "2",
+      "last_updated": "1688335947",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "10": {
+      "title": "Opinions",
+      "volume": "2",
+      "last_updated": "1688335953",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "11": {
+      "title": "Demographics",
+      "volume": "2",
+      "last_updated": "1688335959",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "12": {
+      "title": "Potential Improvements",
+      "volume": "3",
+      "last_updated": "1688335972",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "13": {
+      "title": "Thank You Page",
+      "volume": "3",
+      "last_updated": "1688335987",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
