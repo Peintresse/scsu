@@ -10,10 +10,10 @@
       "volume": "1",
       "last_updated": "1688529600",
       "groups": {
-        "":
-          "/proxy/api/imgur/6SIviRz/"
-      }
-    },
+        "": [
+          "https://i.imgur.com/dltsLp1",
+          "https://i.imgur.com/tXClfOZ"
+        ],
     "1": {
       "title": "About",
       "volume": "1",
