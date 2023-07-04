@@ -5,13 +5,25 @@
   "author": "Survey",
   "cover": "https://drive.google.com/file/d/1Mk08P-QAAB0APKCGw6FFPfX9occxnnp1/view?usp=sharing",
   "chapters": {
+    "0": {
+      "title": "Table of Contents",
+      "volume": "1",
+      "last_updated": "1688529600",
+      "groups": {
+        "": [
+          "https://drive.google.com/file/d/1Mk08P-QAAB0APKCGw6FFPfX9occxnnp1/view?usp=drive_link",
+          "https://drive.google.com/file/d/1N4pZCVEsFgvBXwXBpW_pVOEBYXj79O10/view?usp=drive_link"
+        ]
+      }
+    },
     "1": {
       "title": "About",
       "volume": "1",
       "last_updated": "1688529600",
       "groups": {
         "": [
-          "https://imgur.com/a/7Wr7anq"
+          "https://drive.google.com/uc?export=view&id=1zUOuZFYLteTnjJW6Vg0lo5ZPIyi0l0em",
+          "https://drive.google.com/uc?export=view&id=102r80VYfrVKRcQ80RSc97SQ882NDUWo-"
         ]
       }
     },
