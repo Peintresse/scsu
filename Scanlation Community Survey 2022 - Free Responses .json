@@ -4,5 +4,16 @@
   "artist": "Scanlator",
   "author": "Survey",
   "cover": "https://i.imgur.com/tF1oREo.png",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "Table of Contents",
+      "volume": "",
+      "last_updated": "1699980441",
+      "groups": {
+        "": [
+          "/proxy/api/imgur/chapter/zYM96Yh"
+        ]
+      }
+    }
+  }
 }
