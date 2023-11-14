@@ -1,6 +1,6 @@
 {
   "title": "Scanlation Community Survey 2022 - Free Responses ",
-  "description": "Presentation by: Nene, JQ, Ald, and anons.\n\nFree responses to an online survey of people currently or previously engaged in scanlation, aiming to explore the makeup and opinions of the English-language scanlation community. This report shares write-in responses via text.\n\nPDF download: \nSummary report: https://cubari.moe/read/gist/cmF3L1BlaW50cmVzc2Uvc2NzdS9tYXN0ZXIvU2NhbmxhdGlvbiUyMENvbW11bml0eSUyMFN1cnZleSUyMDIwMjIlMjAtJTIwU3VtbWFyeSUyMFJlcG9ydC5qc29u/",
+  "description": "Presentation by: Nene, JQ, Ald, and anons.\n\nFree responses to an online survey of people currently or previously engaged in scanlation, aiming to explore the makeup and opinions of the English-language scanlation community. This report shares write-in responses via text.\n\nPDF download: https://drive.google.com/file/d/1Zk6Sc01drOZJQ9kbVCNvXG1uD6iqwgPA/view?usp=sharing\nSummary report: https://cubari.moe/read/gist/cmF3L1BlaW50cmVzc2Uvc2NzdS9tYXN0ZXIvU2NhbmxhdGlvbiUyMENvbW11bml0eSUyMFN1cnZleSUyMDIwMjIlMjAtJTIwU3VtbWFyeSUyMFJlcG9ydC5qc29u/",
   "artist": "Scanlator",
   "author": "Survey",
   "cover": "https://i.imgur.com/tF1oREo.png",
@@ -8,92 +8,90 @@
     "0": {
       "title": "Table of Contents",
       "volume": "",
+      "last_updated": "1699980441",
       "groups": {
         "": "/proxy/api/imgur/chapter/zYM96Yh/"
-      },
-          "last_updated": "1699980441"
+      }
     },
-        "1": {
+    "1": {
       "title": "Why ex-scanlators quit",
       "volume": "",
+      "last_updated": "1699980441",
       "groups": {
         "": "/proxy/api/imgur/chapter/OwDBwiF/"
-      },
-          "last_updated": "1699980441"
+      }
     },
-        "2": {
+    "2": {
       "title": "Why scanlators started scanlating",
       "volume": "",
+      "last_updated": "1699980441",
       "groups": {
         "": "/proxy/api/imgur/chapter/jMCrjM7/"
-      },
-          "last_updated": "1699980441"
+      }
     },
-        "3": {
+    "3": {
       "title": "Translator opinions on translator notes",
       "volume": "",
+      "last_updated": "1699980441",
       "groups": {
         "": "/proxy/api/imgur/chapter/zlp2OO6/"
-      },
-          "last_updated": "1699980441"
+      }
     },
-        "4": {
+    "4": {
       "title": "Why scanlators scanlate",
       "volume": "",
+      "last_updated": "1699980441",
       "groups": {
         "": "/proxy/api/imgur/chapter/fna7Og9/"
-      },
-          "last_updated": "1699980441"
+      }
     },
-        "5": {
+    "5": {
       "title": "Scanlators who don't use MangaUpdates",
       "volume": "",
+      "last_updated": "1699980441",
       "groups": {
         "": "/proxy/api/imgur/chapter/U0UOxlJ/"
-      },
-          "last_updated": "1699980441"
+      }
     },
-        "6": {
+    "6": {
       "title": "Do scanlators want to work in official localization?",
       "volume": "",
+      "last_updated": "1699980441",
       "groups": {
         "": "/proxy/api/imgur/chapter/d9nBLqS/"
-      },
-          "last_updated": "1699980441"
+      }
     },
-        "7": {
+    "7": {
       "title": "Scanlators and scanlation reposts",
       "volume": "",
+      "last_updated": "1699980441",
       "groups": {
         "": "/proxy/api/imgur/chapter/UNxHOEJ/"
-      },
-          "last_updated": "1699980441"
+      }
     },
-        "8": {
+    "8": {
       "title": "Scanlators and ethics of scanlation",
       "volume": "",
+      "last_updated": "1699980441",
       "groups": {
         "": "/proxy/api/imgur/chapter/gMUMkm0/"
-      },
-          "last_updated": "1699980441"
+      }
     },
-        "9": {
+    "9": {
       "title": "Scanlation hot takes",
       "volume": "",
+      "last_updated": "1699980441",
       "groups": {
         "": "/proxy/api/imgur/chapter/bJf9use/"
-      },
-          "last_updated": "1699980441"
+      }
     },
-
     "10": {
       "title": "Closing",
       "volume": "",
+      "last_updated": "1699980441",
       "groups": {
         "": "/proxy/api/imgur/chapter/0kz0WYh/"
-      },
-       "last_updated": "1699980441"
+      }
     }
-  
-                                              }
-                                        }
+  }
+}
