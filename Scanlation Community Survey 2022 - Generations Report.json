@@ -116,6 +116,46 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/hxKDZkn/"
       }
+    },
+    "14": {
+      "title": "Pay",
+      "volume": "",
+      "last_updated": "1736916174",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/0zXwEGt/"
+      }
+    },
+    "15": {
+      "title": "Scene",
+      "volume": "",
+      "last_updated": "1736916200",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Gz0AEid/"
+      }
+    },
+    "16": {
+      "title": "Opinions",
+      "volume": "",
+      "last_updated": "1736916218",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/AwKjjzA/"
+      }
+    },
+    "17": {
+      "title": "Loc",
+      "volume": "",
+      "last_updated": "1736916248",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BJcEFvg/"
+      }
+    },
+    "18": {
+      "title": "Closing",
+      "volume": "",
+      "last_updated": "1736916276",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/cpqVziD/"
+      }
     }
   }
 }
