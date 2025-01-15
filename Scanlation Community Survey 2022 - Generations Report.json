@@ -8,9 +8,113 @@
     "0": {
       "title": "Table of Contents",
       "volume": "",
-      "last_updated": "1736929800",
+      "last_updated": "1736915808",
       "groups": {
         "": "/proxy/api/imgur/chapter/o7nskpF"
+      }
+    },
+    "1": {
+      "title": "Introduction",
+      "volume": "",
+      "last_updated": "1736915700",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DDAvqqT/"
+      }
+    },
+    "2": {
+      "title": "Methodology",
+      "volume": "",
+      "last_updated": "1736915640",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ESoRs1E/"
+      }
+    },
+    "3": {
+      "title": "Limitations",
+      "volume": "",
+      "last_updated": "1736915819",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/MVDDHDP/"
+      }
+    },
+    "4": {
+      "title": "Summary View",
+      "volume": "",
+      "last_updated": "1736915851",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/vdzPgiN/"
+      }
+    },
+    "5": {
+      "title": "Groups",
+      "volume": "",
+      "last_updated": "1736915903",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/M3Ry6Ln/"
+      }
+    },
+    "6": {
+      "title": "Habits",
+      "volume": "",
+      "last_updated": "1736915936",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uZSZLjz/"
+      }
+    },
+    "7": {
+      "title": "Series",
+      "volume": "",
+      "last_updated": "1736915967",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jrue5Dd/"
+      }
+    },
+    "8": {
+      "title": "Languages",
+      "volume": "",
+      "last_updated": "1736915995",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/KB8jiSR/"
+      }
+    },
+    "9": {
+      "title": "Roles",
+      "volume": "",
+      "last_updated": "1736916022",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IKM3VRh/"
+      }
+    },
+    "10": {
+      "title": "Software",
+      "volume": "",
+      "last_updated": "1736916072",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ABJzV6p/"
+      }
+    },
+    "11": {
+      "title": "Platforms",
+      "volume": "",
+      "last_updated": "1736916085",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ffFiwC1/"
+      }
+    },
+    "12": {
+      "title": "Motivations",
+      "volume": "",
+      "last_updated": "1736916120",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/AaCDXxu/"
+      }
+    },
+    "13": {
+      "title": "MTL + OCR",
+      "volume": "",
+      "last_updated": "1736916149",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hxKDZkn/"
       }
     }
   }
