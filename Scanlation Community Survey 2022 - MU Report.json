@@ -1,0 +1,41 @@
+{
+  "title": "Scanlation Community Survey 2022 - MU Report",
+  "description": "Presentation by: Nene and anon.\n\nAnalysis of MU image and usage using data collected from a 2022 online survey of past and current scanlators, compared against MU\n\nPDF download: https://drive.google.com/file/d/1lzl6PvlmQNBNMc8PcImZEQhlzJyUW-wr/view?usp=sharing\n\nPreviously released summary report: https://cubari.moe/read/gist/cmF3L1BlaW50cmVzc2Uvc2NzdS9tYXN0ZXIvU2NhbmxhdGlvbiUyMENvbW11bml0eSUyMFN1cnZleSUyMDIwMjIlMjAtJTIwU3VtbWFyeSUyMFJlcG9ydC5qc29u/\nWrite ins: https://cubari.moe/read/gist/cmF3L1BlaW50cmVzc2Uvc2NzdS9tYXN0ZXIvU2NhbmxhdGlvbiUyMENvbW11bml0eSUyMFN1cnZleSUyMDIwMjIlMjAtJTIwRnJlZSUyMFJlc3BvbnNlcy5qc29u/",
+  "artist": "Scanlator",
+  "author": "Survey",
+  "cover": "https://i.imgur.com/2bcWQnX.png",
+  "chapters": {
+    "1": {
+      "title": "About",
+      "volume": "",
+      "last_updated": "1756426667",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/GJuW2ld"
+      }
+    },
+    "2": {
+      "title": "About MU",
+      "volume": "",
+      "last_updated": "1756426749",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/7XyWMbP"
+      }
+    },
+    "3": {
+      "title": "Survey Analysis (Numbers)",
+      "volume": "",
+      "last_updated": "1756426775",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6HHl0TS"
+      }
+    },
+    "4": {
+      "title": "Survey Analysis (Words)",
+      "volume": "",
+      "last_updated": "1756426899",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/o37bvei"
+      }
+    }
+  }
+}
